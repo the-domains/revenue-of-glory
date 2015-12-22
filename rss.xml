@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Revenue of Glory]]></title>
+        <description><![CDATA[Revenue of Glory]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 16:19:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Doctrine of “Worth It”]]></title>
+            <description><![CDATA[<article><h1>A Doctrine of “Worth It”</h1><p>The topic at hand is difficult to address properly, so please bear with me as I give it my best go. These things are on my heart and mind this morning as I think on the nature of apostolic living in the midst of this present age.</p></article>]]></description>
+            <link>undefineda-doctrine-of-worth-it/index.html</link>
+            <guid isPermaLink="false">ebf155c1-34f5-46b4-918d-7c5e78c01c44</guid>
+            <pubDate>Tue, 22 Dec 2015 16:19:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
