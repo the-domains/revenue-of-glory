@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T19:25:58.024Z'
-dateModified: '2015-12-25T19:24:50.121Z'
-title: 'reasons-transformation Reasons: Setting A Context for Transformation'
+datePublished: '2015-12-25T19:32:59.492Z'
+dateModified: '2015-12-25T19:32:57.770Z'
+title: 'Reasons: Setting A Context for Transformation'
 author: []
+sourcePath: _posts/2015-12-25-reasons-transformation-reasons-setting-a-context-for-transf.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-reasons-transformation-reasons-setting-a-context-for-transf.md
-published: true
 url: reasons-transformation-reasons-setting-a-context-for-transf/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac60dcef-8fc9-479d-bdbb-7c719963caae.jpg)
+
 To be His disciple today is, in some respects, harder then ever, and to find the time and context for the process of renewing the mind can be even more difficult.
 
 One of those things which I love most about this little thing we call the "house of prayer" is the provision of just that: an opportunity to spend time -- significant amounts of it -- in a context optimal for the transforming of the mind.
@@ -59,4 +61,4 @@ I have in me the compelling desire to call my peers to a lifestyle of serious de
 The transformation does not occur overnight. One week in the prayer room can be impactful, but what is needed is giving yourself to this as a lifestyle over years. Just as a week of eating well and spending time at the gym is not overly helpful in the long run for health, so it takes dedication and longevity to see the desired results of a lifestyle of prayer.
 
 But... if one will give this a try, and dedicate some significant amounts of time to sitting before Him, they will find the heart changed. I have seen this story over and again, and it remains one of the most potent joys in doing what I do. As we labor to strengthen and establish night and day prayer across the earth, I keep in view a portrait of numerous lives transformed entirely by the potency of immersion in an incubator where truth thrives.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac60dcef-8fc9-479d-bdbb-7c719963caae.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40911386-cd73-44a8-9a05-a067b79a3a45.jpg)
