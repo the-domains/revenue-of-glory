@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2015-12-25T19:30:08.105Z'
-dateModified: '2015-12-25T19:29:50.821Z'
-title: 'Intimacy: The Essence'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-29T19:25:16.875Z'
 sourcePath: _posts/2015-12-25-intimacy-the-essence.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-29T19:25:15.744Z'
+title: 'Preface:'
+publisher: {}
+description: >-
+  “…and indeed our fellowship is with the Father, and with His Son Jesus
+  Christ.”– 1 John 1:3
+inLanguage: null
+inNav: false
+starred: false
 url: intimacy-the-essence/index.html
 _type: Article
 
