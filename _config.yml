@@ -1,19 +1,4 @@
-name: Revenue of Glory
-favicon: null
-layout_spectrum: 0.26635
 typography_spectrum: 0.87283
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f1d58b'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1466863879468292
   saturation: 0.4944497374817729
   rhythmicContrast: 0.049026099033653736
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26635
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Revenue of Glory
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Revenue of Glory
 purpose: []
