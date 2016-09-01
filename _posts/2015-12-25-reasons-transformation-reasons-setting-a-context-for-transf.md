@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T19:44:56.007Z'
+datePublished: '2016-08-29T22:36:47.535Z'
 sourcePath: >-
   _posts/2015-12-25-reasons-transformation-reasons-setting-a-context-for-transf.md
 inFeed: true
@@ -7,26 +7,24 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-29T19:44:55.473Z'
-title: The Beauty & Simplicity of Sitting Before Him
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-29T22:36:47.167Z'
+title: 'Reasons: Setting A Context for Transformation'
+publisher: {}
 description: >-
   To be His disciple today is, in some respects, harder then ever, and to find
   the time and context for the process of renewing the mind can be even more
   difficult.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: reasons-transformation-reasons-setting-a-context-for-transf/index.html
 _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e623fe5154d64be66c767f2b460fb31c98d10c69.jpg)
+
+# Reasons: Setting A Context for Transformation
 
 To be His disciple today is, in some respects, harder then ever, and to find the time and context for the process of renewing the mind can be even more difficult.
 
